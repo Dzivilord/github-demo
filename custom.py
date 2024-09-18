@@ -16,3 +16,4 @@ class Solution:
 Loi=Custom(23,"Gaylord",'DN City','12 months','22120188','17/9/2024')
 print(Loi.address)
 
+print(Loi.openDate)
